@@ -1,5 +1,6 @@
 from util import lire_historique_utilisateur, enregistrer_partie, lire_dictionnaires_mots
 
+#caca pipi
 
 # Squelette du menu principal :
 # Ce code peut être un bon point de départ.
